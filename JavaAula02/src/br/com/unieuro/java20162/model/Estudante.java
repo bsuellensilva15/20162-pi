@@ -6,6 +6,6 @@ public class Estudante {
 	private String senioridade;
 	private String graduacao;
 	
-	public Estudante(String nome_do_estudante, )
-
+	
+ 
 }
